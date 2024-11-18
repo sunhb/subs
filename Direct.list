@@ -25,6 +25,11 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
+# bilibili
+DOMAIN-SUFFIX,bilibili.co
+DOMAIN-SUFFIX,maoer.co
+DOMAIN-SUFFIX,maoer.com
+DOMAIN-SUFFIX,missevan.cn
 
 # 360
 DOMAIN-SUFFIX,360.com
